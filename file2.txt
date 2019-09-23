@@ -2,8 +2,11 @@ this is the first line
 this is the seconfd line
 this is the third line
 this is the fourth line
+<<<<<<< HEAD
 this is the fifth
 this is the six
 this is the sevnth
 this the eight
 
+=======
+>>>>>>> parent of cbb8f82... completed five and six
